@@ -1,7 +1,7 @@
 # 핸즈온 Google ADK with Python: LLM 에이전트 구축을 위한 ADK(Agent Development Kit) 핵심 가이드
 
 
-<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252F2dKOhR7E2LdDmLpWQOgk%252FFrame%25203.png%3Falt%3Dmedia%26token%3D379a4052-b22a-48ab-a71b-ea768f4d62ae&width=300&dpr=4&quality=100&sign=cf58bbad&sv=2 width="500" height="707"/>
+<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252F2dKOhR7E2LdDmLpWQOgk%252FFrame%25203.png%3Falt%3Dmedia%26token%3D379a4052-b22a-48ab-a71b-ea768f4d62ae&width=300&dpr=4&quality=100&sign=cf58bbad&sv=2" width="500" height="707"/>
 
 
 ## 책 소개
